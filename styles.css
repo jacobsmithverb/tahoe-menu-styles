@@ -1,0 +1,9 @@
+.menus {
+    font-family: proxima-nova,sans-serif;
+}
+.menu .section {
+    margin-bottom: 0;
+}
+.header .nav-row {
+    display: none;
+}
