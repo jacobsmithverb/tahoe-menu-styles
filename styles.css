@@ -1,9 +1,6 @@
-.menu .section {
-    margin-bottom: 0;
-}
-.header .nav-row {
-    display: none;
-}
 #singleplatform .menus .menu .section {
-    font-family: proxima-nova,sans-serif;
+    font-family: 'proxima-nova';
+}
+#singleplatform .menus {
+ background: #000;   
 }
